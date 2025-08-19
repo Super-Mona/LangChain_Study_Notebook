@@ -1,2 +1,2 @@
 # LangChain_Study_Notebook
-LangSmith
+Research deep-dives and shots note: LLM, RAG, LangChain, LangSmith, Groq, OpenSouce, OpenAI
